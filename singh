@@ -1,0 +1,7 @@
+List=[1,2,3,4]
+sum = 0
+for num in List:
+  sum += num
+  print(sum)
+  print("the total sum of list")
+ 
